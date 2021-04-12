@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KillerGh0st</h1>
 <h3 align="center">A kid who is interested in coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killergh0st&label=Profile%20344views&color=0e75b6&style=flat" alt="killergh0st" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=killergh0st&label=Profile%20views&color=0e75b6&style=flat" alt="killergh0st" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killergh0st" alt="killergh0st" /></a> </p>
 
