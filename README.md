@@ -1,4 +1,4 @@
-<h1 align="center">Hello welcome I'm KillerGh0st.</h1>
+<h1 align="center">Hello welcome I'm Berkay.</h1>
 <h3 align="center">I'm learning to be a full stack web Dev or Desktop Application Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killergh0st&label=Profile%20views&color=0e75b6&style=flat" alt="killergh0st" /> </p>
