@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **Anything you want to ask!**
 
-- 📫 How to reach me **borpoendoxdoggg@gmail.com**
+- 📫 How to reach me **berkayischule@gmail.com**
 
 - ⚡ Fun fact **Programming might give you brain dmg sometimes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="あなたは KillerGh0st#4509" height="30" width="40" /></a> Discord: あなたは KillerGh0st#4509
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="None" height="30" width="40" /></a> Discord: あなたは KillerGh0st#4509
 </p>
 
 
